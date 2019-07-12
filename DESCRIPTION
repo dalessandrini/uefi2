@@ -1,0 +1,31 @@
+Package: uefi2
+Type: Package
+Title: Funciones y herramientas puntuales para aplicar ML
+Version: 0.0.0.9000
+Authors@R: as.person("Daniel Alessandrini <dalessandrini@fing.edu.uy> [aut,cre]")
+Description: Es "un paquetillo de pacotilla", que ofrece wrappers y
+  algunas funciones para aplicar tecnicas de Aprendizaje Automatico 
+  (aun en 'fase de pruebas', alternativa a {uefi})
+Depends:
+  R (>= 3.3.1)
+Imports:
+  adabag (>= 4.1.0),
+  e1071 (>= 1.6.7),
+  ggplot2 (>= 2.1.0),
+  KernSmooth(>= 2.23-15),
+  klaR (>= 0.6.12),
+  ks (>= 1.10.4),
+  MASS (>= 7.3-45),
+  np (>= 0.60-2),
+  randomForest (>= 4.6-12),
+  reshape2 (>= 1.4.1),
+  rpart (>= 4.1-10),
+  stats (>= 3.3.1)
+Encoding: UTF-8
+License: CC0
+LazyData: TRUE
+RoxygenNote: 6.1.0
+VignetteBuilder: knitr
+Suggests: testthat,
+    knitr,
+    rmarkdown
