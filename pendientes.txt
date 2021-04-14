@@ -1,0 +1,6 @@
+Pendientes al 14/04/21
+
+Readme para entender de que se trata este paquete
+Corrida de prueba (script COMPLETO) para realizar todas las etapas
+Probar con datos nuevos: 2018-20 (en lo posible)
+Artículo con nuevos datos: retomar en algún momento
